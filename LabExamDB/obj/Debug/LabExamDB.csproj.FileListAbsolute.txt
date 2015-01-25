@@ -1,0 +1,9 @@
+H:\Taukir\LabExamDB\LabExamDB\bin\Debug\LabExamDB.exe.config
+H:\Taukir\LabExamDB\LabExamDB\bin\Debug\LabExamDB.exe
+H:\Taukir\LabExamDB\LabExamDB\bin\Debug\LabExamDB.pdb
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.csprojResolveAssemblyReference.cache
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.Properties.Resources.resources
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.MainUI.resources
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.csproj.GenerateResource.Cache
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.exe
+H:\Taukir\LabExamDB\LabExamDB\obj\Debug\LabExamDB.pdb
